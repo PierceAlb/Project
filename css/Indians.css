@@ -1,0 +1,87 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000080;
+}
+
+/* Style the header */
+.header {
+  background-color: #000080;
+  padding: 20px;
+
+}
+h1{
+  color:  #FF3333;
+
+  margin-right: 280px;
+  margin-left: 280px;
+}
+ul{
+  color:  #FF3333;
+  font-size: 21px;
+}
+h2{
+
+  color:  #FF3333;
+}
+p{
+  font-size: 21px;
+  color:  #FF3333;
+
+}
+/* Style the top navigation bar */
+.topnav {
+  overflow: hidden;
+  background-color:	#FF3333;
+}
+
+/* Style the topnav links */
+.topnav a {
+  float: left;
+  display: block;
+  color: #000080;
+
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change color on hover */
+.topnav a:hover {
+  background-color: #000080;
+  color: #FF3333;
+}
+h1, h2{
+  text-decoration: underline;
+}
+article p, h1, h2{
+    margin-left: 180px;
+  margin-right: 180px;
+}
+.topnav{
+  margin-left: 175px;
+  margin-right: 175px;
+}
+.Indians{
+  width: 20%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  width: 20%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.l{
+text-align: center;
+}
+ul{
+  text-align: center;
+}

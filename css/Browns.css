@@ -87,8 +87,9 @@ tr:hover {background-color: #6e2c00}
 tr:hover {color: #e67e22}
 .Browns-hr{
   color: #e67e22;
+  border-style:solid;
   width: 80%;
-  margin-right: 110px;
+  margin-right: 200px;
 }
 h1, h2{
   text-decoration: underline;
@@ -98,6 +99,6 @@ article p, h1, h2{
   margin-right: 180px;
 }
 .topnav{
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 175px;
+  margin-right: 175px;
 }
