@@ -48,7 +48,7 @@ p{
   padding: 14px 16px;
   text-decoration: none;
 }
-
+/* navingation bar */
 /* Change color on hover */
 .topnav a:hover {
   background-color: #000080;
@@ -86,7 +86,7 @@ ul{
   text-align: center;
 }
 table, th, td{
-  border-bottom: 10px solid #000080;
+  border: 10px solid #000080;
   text-align: center;
 }
 table{
@@ -95,6 +95,7 @@ table{
   margin-left: auto;
   margin-right: auto;
 }
+/* writing a sentence */
 th{
   height: 50px;
 }
@@ -108,3 +109,33 @@ td {
 }
 tr:hover {background-color: #000080}
 tr:hover {color: #FF3333}
+.Indians-hr{
+  color: #FF3333;
+  border-style:solid;
+  width: 80%;
+  margin-right: 200px;
+}
+.S{
+    width: 50%;
+    background-color: #FF3333;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .S{
+    th:hover {background-color: #000080}
+    th:hover {color: #FF3333}
+}
+footer {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	font-size: 1em;
+	border-top: 2px solid #FF3333;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+cite{
+  color: #FF3333;
+}
+.c{
+    color: #FF3333;
+}
